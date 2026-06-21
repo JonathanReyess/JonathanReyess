@@ -1,14 +1,12 @@
 Hi! I'm Jonathan 👋
 
-
-curr AI @ Chewy 
-prev AI/ML @ Duke '26 
+Currently @ Chewy building, integrating, and scaling custom AI-native solutions that solve unique technical challenges in real time.
 
 About me:
 
-- prev data @ pfizer
-- prev ml @ people,   
-- experience in ML infrastructure, predictive modeling, and end-to-end product delivery.
+- duke co26 alum (cs + neuro + ling) 
+- prev data @ pfizer and ml @ people   
+- experience in ML infra, nlp, predictive modeling, and end-to-end product delivery.
  
   
 contact: [LinkedIn](https://www.linkedin.com/in/jonathan-reyess) | [Email](mailto:jonathan.reyes@duke.edu) | [Website](https://jonathanreyes.dev)
