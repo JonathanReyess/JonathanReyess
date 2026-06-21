@@ -1,11 +1,13 @@
 Hi! I'm Jonathan 👋
 
-AI/ML @ Duke
+
+curr AI @ Chewy 
+prev AI/ML @ Duke '26 
 
 About me:
 
-- prev data @ pfizer 
-- prev ml @ people  
+- prev data @ pfizer
+- prev ml @ people,   
 - experience in ML infrastructure, predictive modeling, and end-to-end product delivery.
  
   
